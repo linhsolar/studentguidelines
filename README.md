@@ -5,7 +5,7 @@ This provides some guide lines for people who seeking internships, PhD and Postd
 ## Current open positions
 
 * Open PhD/Postdoc position: [Software Systems in IoT, Edge and Cloud Computing](https://rdsea.github.io/openpositions-asre.txt)
-* Open PhD/Postdoc position: 	[Engineering Analytics for Big Data in  IoT, Edge and Cloud Systems] (https://rdsea.github.io/openpositionsbigdataase.txt)
+* Open PhD/Postdoc position: 	[Engineering Analytics for Big Data in  IoT, Edge and Cloud Systems](https://rdsea.github.io/openpositionsbigdataase.txt)
 * Open [teaching assistant positions for Big Data Platforms 2019](https://github.com/linhsolar/bdp/blob/master/jobs/bdp-2019.md)
 
 If you dont see an open position but still want to find out if any position is available, pls. send email to me.
