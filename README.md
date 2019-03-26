@@ -27,4 +27,4 @@ Usually it would take around a month or even more with a lot of discussions to c
 
 ## TU Wien courses
 
-I maintain my teaching right at [TU Wien](www.informatik.tuwien.ac.at) but I dont have regular courses. If you want to do master theses, seminars or other courses, contact me directly.
+I maintain my teaching right at [TU Wien](http://www.informatik.tuwien.ac.at/) but I dont have regular courses. If you want to do master theses, seminars or other courses, contact me directly.
