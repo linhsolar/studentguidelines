@@ -25,6 +25,10 @@ For all master theses, regardless of whether the topic is from industries or fro
 
 Usually it would take around a month or even more with a lot of discussions to come up with a reasonable proposal, even for industrial topics. Therefore, if you want to do the thesis, you should contact me as early as possible.
 
+## PhD internships
+
+Often I do host PhD internships from other universities and research centers. In general, we should have a clear plan of what we could achieve during the internships. Therefore, before asking for the internship, pls. work on a plan and we can discuss.  
+
 ## TU Wien courses
 
 I maintain my teaching right at [TU Wien](http://www.informatik.tuwien.ac.at/) but I dont have regular courses. If you want to do master theses, seminars or other courses, contact me directly.
