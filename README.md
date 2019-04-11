@@ -1,6 +1,6 @@
 # Some Guidelines for Students
 
-This provides some guide lines for people who seeking internships, PhD and Postdoc positions.
+This provides some guidelines for people who are seeking internships, PhD and Postdoc positions.
 
 ## Current open positions
 
@@ -28,3 +28,7 @@ Usually it would take around a month or even more with a lot of discussions to c
 ## TU Wien courses
 
 I maintain my teaching right at [TU Wien](http://www.informatik.tuwien.ac.at/) but I dont have regular courses. If you want to do master theses, seminars or other courses, contact me directly.
+
+## Contact
+
+[Linh Truong](linh.truong@aalto.fi)
