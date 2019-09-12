@@ -27,7 +27,7 @@ For all master theses, regardless of whether the topic is from industries or fro
 
 A special note for students doing master thesis in industries (with advisors from industries as well):
 
-* Understand the the student must be able to translate/map interests between an academic viewpoint (the supervising professor/me) and an industry viewpoint (the industrial advisor); these viewpoints are not necessarily the same.
+* The student must be able to translate/map interests between an academic viewpoint (the supervising professor/me) and an industry viewpoint (the industrial advisor); these viewpoints are not necessarily the same.
     * Academic viewpoint: we want to see scientific and/or engineering questions/challenges, possible solutions w.r.t. prototypes of the ideas, lesson learned, new ideas, etc.
     * Industrial viewpoint: some industrial thesis projects just focus on implementation/engineering in the interest of the company
 * After having a good draft of the proposal, we (the student, the industry advisors and the supervisor) should meet and agree. Dont expect that I will sign the thesis registration without seeing the industry advisors.
