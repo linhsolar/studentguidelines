@@ -1,6 +1,6 @@
 # Some Guidelines for Students
 
-This provides some guidelines for people who are seeking internships, PhD and Postdoc positions.
+This provides some guidelines for people who are seeking teaching assistant, research assistant, internships, PhD and Postdoc positions.
 
 ## Current open positions
 
