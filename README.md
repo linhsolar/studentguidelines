@@ -6,7 +6,7 @@ This provides some guidelines for people who are seeking teaching assistant, res
 
 * Open PhD/Postdoc position: [Software Systems in IoT, Edge and Cloud Computing](https://rdsea.github.io/openpositions-asre.txt)
 * Open PhD/Postdoc position: 	[Engineering Analytics for Big Data in  IoT, Edge and Cloud Systems](https://rdsea.github.io/openpositionsbigdataase.txt)
-* Open [teaching assistant positions for Big Data Platforms 2019](https://github.com/linhsolar/bdp/blob/master/jobs/bdp-2019.md)
+* Open [teaching assistant positions for Big Data Platforms 2019](jobs/bdp-2019.md)
 * Open Research Assistants: we have open research assistant positions with [various activities in our research](https://rdsea.github.io). Eventually a research assistant can work on a research topic for a master thesis.
 
 If you dont see an open position but still want to find out if any position is available, pls. send email to me.
