@@ -6,14 +6,24 @@ This provides some guidelines for people who are seeking teaching assistant, res
 
 * Open PhD/Postdoc position: [Software Systems in IoT, Edge and Cloud Computing](https://rdsea.github.io/openpositions-asre.txt)
 * Open PhD/Postdoc position: 	[Engineering Analytics for Big Data in  IoT, Edge and Cloud Systems](https://rdsea.github.io/openpositionsbigdataase.txt)
-* Open [teaching assistant positions for Big Data Platforms 2019](jobs/bdp-2019.md)
-* Open Research Assistants: we have open research assistant positions with [various activities in our research](https://rdsea.github.io). Eventually a research assistant can work on a research topic for a master thesis.
+* Open [teaching assistant positions for Big Data Platforms 2021 (Spring)](https://version.aalto.fi/gitlab/aaltoseatheses/aaltoseajob)
+
 
 If you dont see an open position but still want to find out if any position is available, pls. send email to me.
 
+## Research/Teaching Assistants & Special Assignments
+If you want to work as a research/teaching assistant (TA/RA) or for a special assignment, first make sure that you are familar with  [various activities in our research](https://rdsea.github.io). Note that I will only accept **master/PhD  students** in Aalto for TA/RA or special assignments. Usually, for such positions, it would be better if you have completed my courses ([Big Data Platforms]() or [Advanced Topics in Software Systems]()) so I would know your skills.
+
+## Bachelor Thesis and Internships for Bachelor Students
+If I have open topics, you would find the topics published officially in the right forum. Otherwise, do not contact me.
+
 ## Aalto Master Thesis
 
-* If you have a topic from industries, pls. just contact me about your topic.
+My workload would be to supervise **4-6 theses per year**. Thus I might not be able to accept your interesting topics. I would accept the topics only in [my research areas](https://rdsea.github.io).
+
+* If you have a topic from the industry,
+  - but **if the advisor/company would like you to work on a highly confidential topic that you are not allowed to discuss freely technical/scientific content of the topic with me and that the advisor/company just expects me to read and approve the thesis, pls. DO NOT contact me**.
+  -  Otherwise, pls. just contact me about your topic to have a discussion.
 * If you want to select a topic specified by me, pls. come to talk first about your interest.
 
 For all master theses, regardless of whether the topic is from industries or from me, you will have to work on a master thesis proposal to make sure that we (you and me) come to an agreement on the research and engineering questions and plans for your thesis, **BEFORE** we can officially register the thesis. Usually the thesis proposal will be short but includes:
@@ -46,7 +56,7 @@ Often I do host PhD internships from other universities and research centers. In
 
 ## TU Wien courses
 
-I maintain my teaching right at [TU Wien](http://www.informatik.tuwien.ac.at/) but I dont have regular courses. If you want to do master theses, seminars or other courses, contact me directly.
+I maintain my teaching right at [TU Wien](http://www.informatik.tuwien.ac.at/) but I dont have regular courses. If you want to do master/PhD theses, seminars or other courses, contact me directly.
 
 ## Contact
 
