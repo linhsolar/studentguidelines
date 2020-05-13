@@ -12,7 +12,7 @@ This provides some guidelines for people who are seeking teaching assistant, res
 If you dont see an open position but still want to find out if any position is available, pls. send email to me.
 
 ## Research/Teaching Assistants & Special Assignments
-If you want to work as a research/teaching assistant (TA/RA) or for a special assignment, first make sure that you are familar with  [various activities in our research](https://rdsea.github.io). Note that I will only accept **master/PhD  students** in Aalto for TA/RA or special assignments. Usually, for such positions, it would be better if you have completed my courses ([Big Data Platforms]() or [Advanced Topics in Software Systems]()) so I would know your skills.
+If you want to work as a research/teaching assistant (TA/RA) or for a special assignment, first make sure that you are familar with  [various activities in our research](https://rdsea.github.io). Note that I will only accept **master/PhD  students** in Aalto for TA/RA or special assignments. Usually, for such positions, it would be better if you have completed my courses ([Big Data Platforms](https://version.aalto.fi/gitlab/bigdataplatforms/cs-e4640), [Advanced Topics in Software Systems](https://version.aalto.fi/gitlab/sys4bigml/cs-e4660)), or special seminars (e.g., special assignments or ML/data science projects) so I would know your skills.
 
 ## Bachelor Thesis and Internships for Bachelor Students
 If I have open topics, you would find the topics published officially in the right forum. Otherwise, do not contact me.
