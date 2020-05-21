@@ -4,8 +4,7 @@ This provides some guidelines for people who are seeking teaching assistant, res
 
 ## Current open positions
 
-* Open PhD/Postdoc position: [Software Systems in IoT, Edge and Cloud Computing](https://rdsea.github.io/openpositions-asre.txt)
-* Open PhD/Postdoc position: 	[Engineering Analytics for Big Data in  IoT, Edge and Cloud Systems](https://rdsea.github.io/openpositionsbigdataase.txt)
+
 * Open [teaching assistant positions for Big Data Platforms 2021 (Spring)](https://version.aalto.fi/gitlab/aaltoseatheses/aaltoseajob)
 
 
