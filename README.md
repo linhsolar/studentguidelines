@@ -5,7 +5,7 @@ This provides some guidelines for people who are seeking teaching assistant, res
 ## Current open positions
 
 
-* Open [teaching assistant positions for Big Data Platforms 2021 (Spring)](https://version.aalto.fi/gitlab/aaltoseatheses/aaltoseajob)
+* Open [teaching assistant positions for Big Data Platforms 2022 (Spring)](https://version.aalto.fi/gitlab/aaltoseatheses/aaltoseajob)
 
 
 If you dont see an open position but still want to find out if any position is available, pls. send email to me.
