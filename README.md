@@ -4,7 +4,7 @@ This provides some guidelines for people who are seeking teaching assistant, res
 
 ## Current open positions
 
-
+* [Large-scale computing on modern architectures and systems: Programming models, Designs and Optimization](https://version.aalto.fi/gitlab/aaltoseatheses/aaltoseajob/-/blob/master/doctoralstudent2021.md)
 * Open [teaching assistant positions for Big Data Platforms 2022 (Spring)](https://version.aalto.fi/gitlab/aaltoseatheses/aaltoseajob)
 
 
