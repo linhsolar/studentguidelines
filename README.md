@@ -4,7 +4,7 @@ This provides some guidelines for people who are seeking teaching assistant, res
 
 ## Current open positions
 *  full-time funded PhD student in [ML/Big Data in Edge-Cloud Continuum](https://docs.google.com/document/d/1pkHBcLauRr7bZ2CzprP8f_QcSLSUE3MfDnmj_tPZyiY/edit?usp=sharing)
-*  full-time funded PhD student in [Engineering analytics of complex software systems](https://docs.google.com/document/d/1SM_eLQhVtLV_yKrQ9l1zEvq2UZNYoNQNd3IQQpomybM/edit?usp=sharing)
+*  full-time funded PhD student in [Software Analytics and Testability](https://www.aalto.fi/en/open-positions/doctoral-candidate-position-in-software-analytics-and-testability)
 
 If you dont see an open position but still want to find out if any position is available, pls. send email to me.
 
