@@ -2,12 +2,6 @@
 
 This provides some guidelines for people who are seeking teaching assistant, research assistant, internships, PhD and Postdoc positions.
 
-## Current open positions
-*  full-time funded PhD student in [ML/Big Data in Edge-Cloud Continuum](https://docs.google.com/document/d/1pkHBcLauRr7bZ2CzprP8f_QcSLSUE3MfDnmj_tPZyiY/edit?usp=sharing)
-*  full-time funded PhD student in [Software Analytics and Testability](https://www.aalto.fi/en/open-positions/doctoral-candidate-position-in-software-analytics-and-testability)
-
-If you dont see an open position but still want to find out if any position is available, pls. send email to me.
-
 ## Research/Teaching Assistants & Special Assignments
 If you want to work as a research/teaching assistant (TA/RA) or for a special assignment, first make sure that you are familar with  [various activities in our research](https://rdsea.github.io). Note that I will only accept **master/PhD  students** in Aalto for TA/RA or special assignments. Usually, for such positions, it would be better if you have completed my courses ([Big Data Platforms](https://version.aalto.fi/gitlab/bigdataplatforms/cs-e4640), [Advanced Topics in Software Systems](https://version.aalto.fi/gitlab/sys4bigml/cs-e4660)), or special seminars (e.g., special assignments or ML/data science projects) so I would know your skills.
 
