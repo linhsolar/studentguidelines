@@ -38,6 +38,7 @@ A special note for students doing master thesis in industries (with advisors fro
     1. **Relevancy**: is the topic relevant and timely for the company? is it challenging?
     2. **Engineering and scientific viewpoint**: the thesis result is useful for the company? Is the company able to apply/use the result? how would the company evaluate the result (average, good, very good, excellent)?
     3. **Time and teamwork**: considering the time spent for  the thesis, does the company think that the time is too short, too long or appropriate with the result? Did the student follow the teamwork and requirements of the company well?
+    4. **The use of AI**: declaring and clarifying clearly the use of AI for the thesis, providing details for chapters and sections
 
 
 
