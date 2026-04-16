@@ -34,7 +34,7 @@ A special note for students doing master thesis in industries (with advisors fro
     * Industrial viewpoint: some industrial thesis projects just focus on implementation/engineering in the interest of the company
 * After having a good draft of the proposal, we (the student, the industry advisors and the supervisor) should meet and agree. Dont expect that I will sign the thesis registration without seeing the industry advisors.
 * We should meet with the industry advisors regularly about the progress of the thesis.
-* I will need the industry advisors to evalute the student thesis from three aspects:
+* I will need the industry advisors to evalute the student thesis from four aspects:
     1. **Relevancy**: is the topic relevant and timely for the company? is it challenging?
     2. **Engineering and scientific viewpoint**: the thesis result is useful for the company? Is the company able to apply/use the result? how would the company evaluate the result (average, good, very good, excellent)?
     3. **Time and teamwork**: considering the time spent for  the thesis, does the company think that the time is too short, too long or appropriate with the result? Did the student follow the teamwork and requirements of the company well?
